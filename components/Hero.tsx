@@ -23,8 +23,8 @@ export default function Hero() {
             transition={{ duration: 0.7, ease: "easeInOut" }}
             className="text-5xl md:text-7xl font-black font-heading mb-6 leading-tighter"
           >
-            Transform Your Body,{" "}
-            <span className="text-primary">Transform Your Life</span>
+            Transforme sua Marca...{" "}
+            <span className="text-primary">Com Design que Ganha Vida</span>
           </motion.h1>
 
           <motion.p
@@ -33,8 +33,8 @@ export default function Hero() {
             transition={{ delay: 0.3, duration: 0.7 }}
             className="text-xl md:text-2xl mb-8 font-light leading-relaxed max-w-3xl mx-auto"
           >
-            Join our fitness programs and achieve your goals with expert
-            trainers and personalized plans.
+            Campanhas para redes sociais, animações cativantes e sites que
+            convertem — tudo em um só portfólio.
           </motion.p>
 
           <motion.div
@@ -47,14 +47,14 @@ export default function Hero() {
               size="lg"
               className="bg-primary hover:bg-primary/90 text-lg font-semibold transition-transform duration-300 hover:scale-105 px-8"
             >
-              Start Free Trial
+              Explorar Trabalhos
             </Button>
             <Button
               size="lg"
               variant="outline"
               className="bg-transparent text-lg font-semibold transition-transform duration-300 hover:scale-105 px-8"
             >
-              View Plans
+              Fale Comigo
             </Button>
           </motion.div>
         </div>
